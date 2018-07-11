@@ -427,3 +427,4 @@ This module is based on work by David Schmitt. The following contributors have c
 * Daniël van Eeden
 * Jan-Otto Kröpke
 * Timothy Sven Nelson
+* Thomas Tischner
